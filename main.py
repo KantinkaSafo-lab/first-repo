@@ -7,3 +7,9 @@
 #print("I am learning Python programming.")
 
 print("Welcome to Blackmind Edu Tech")
+
+#Data Types in Python
+#String: Textual data enclosed in quotes
+#Integer: Whole numbers without decimal points
+#Float: Numbers with decimal points
+#Boolean: Represents True or False values
