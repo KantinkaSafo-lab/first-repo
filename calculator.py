@@ -14,7 +14,6 @@ print("2. Subtraction (-)")
 #Ask the user to choose an operation
 choice = input("choose operation (1 or 2): ")
 
-
 #Receive two numbersfrom a user
 first_number = float(input("Enter the first number: "))
 second_number = float(input("Enter the second number: "))
@@ -37,3 +36,4 @@ else:
 print("---------------------------------------------------------------")
 print("Operational Result: ", result)
 print("---------------------------------------------------------------")
+print("Thank you for using Blackmind Calculator. Have a great day!")
